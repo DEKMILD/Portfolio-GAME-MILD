@@ -1,0 +1,8 @@
+body {
+    font-family: 'Courier New', Courier ,monospace;
+    text-align: center; 
+}
+body {
+    height: 100;
+    background: linear-gradient(135deg, #db3b17, #ffb731);
+}
